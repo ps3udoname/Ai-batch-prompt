@@ -1,1 +1,1 @@
-API_KEY="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"
+API_KEY="get the key from openrouter"
